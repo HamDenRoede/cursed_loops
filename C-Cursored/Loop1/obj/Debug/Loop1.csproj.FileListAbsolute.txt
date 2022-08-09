@@ -1,0 +1,14 @@
+C:\Users\jeni5\Documents\TEC - Programmering\C#\Loop1\bin\Debug\Loop1.exe.config
+C:\Users\jeni5\Documents\TEC - Programmering\C#\Loop1\bin\Debug\Loop1.exe
+C:\Users\jeni5\Documents\TEC - Programmering\C#\Loop1\bin\Debug\Loop1.pdb
+C:\Users\jeni5\Documents\TEC - Programmering\C#\Loop1\obj\Debug\Loop1.csproj.AssemblyReference.cache
+C:\Users\jeni5\Documents\TEC - Programmering\C#\Loop1\obj\Debug\Loop1.csproj.CoreCompileInputs.cache
+C:\Users\jeni5\Documents\TEC - Programmering\C#\Loop1\obj\Debug\Loop1.exe
+C:\Users\jeni5\Documents\TEC - Programmering\C#\Loop1\obj\Debug\Loop1.pdb
+C:\Users\Jonas\Source\Repos\C-Cursored\Loop1\bin\Debug\Loop1.exe.config
+C:\Users\Jonas\Source\Repos\C-Cursored\Loop1\bin\Debug\Loop1.exe
+C:\Users\Jonas\Source\Repos\C-Cursored\Loop1\bin\Debug\Loop1.pdb
+C:\Users\Jonas\Source\Repos\C-Cursored\Loop1\obj\Debug\Loop1.csproj.AssemblyReference.cache
+C:\Users\Jonas\Source\Repos\C-Cursored\Loop1\obj\Debug\Loop1.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Source\Repos\C-Cursored\Loop1\obj\Debug\Loop1.exe
+C:\Users\Jonas\Source\Repos\C-Cursored\Loop1\obj\Debug\Loop1.pdb
